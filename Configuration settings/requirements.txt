@@ -1,0 +1,17 @@
+opencv-python==4.8.1.78
+ultralytics==8.0.196
+flask==2.3.3
+flask-socketio==5.3.6
+numpy==1.24.3
+pillow==10.0.1
+python-telegram-bot==20.6
+smtplib2==0.2.1
+sqlite3
+requests==2.31.0
+python-dotenv==1.0.0
+threading
+datetime
+base64
+json
+os
+logging
