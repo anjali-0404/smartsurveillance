@@ -4,7 +4,6 @@ import json
 from datetime import datetime, timedelta
 import threading
 import time
-
 # Import the fixed surveillance system
 from surveillance_core import SurveillanceCore  # Make sure this imports your updated class
 
