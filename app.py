@@ -6,7 +6,6 @@ import threading
 import time
 # Import the fixed surveillance system
 from surveillance_core import SurveillanceCore  # Make sure this imports your updated class
-
 app = Flask(__name__)
 app.secret_key = 'your-secret-key-here'
 
